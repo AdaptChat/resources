@@ -21,9 +21,9 @@ This document curates resources for developing applications with Adapt's API.
 
 ## API Wrappers (Libraries)
 
-| Language | Library | Author | Reference |
-| -------- | ------- | ------ | --------- |
-| Python   | [adapt.py](https://github.com/adaptchat/adapt.py) | Official | [Documentation](https://adaptpy.rtfd.io/)
+| Language | Library | Author | Reference | Status |
+| -------- | ------- | ------ | --------- | ------ |
+| Python   | [adapt.py](https://github.com/adaptchat/adapt.py) | Official | [Documentation](https://adaptpy.rtfd.io/) | Active |
 
 ---
 
