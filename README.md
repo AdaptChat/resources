@@ -23,9 +23,9 @@ This document curates resources for developing applications with Adapt's API.
 
 | Language   | Library | Author | Reference | Coverage | Status |
 | ---------- | ------- | ------ | --------- | -------- | ------ |
-| Python     | [adapt.py](https://github.com/adaptchat/adapt.py) | Official | [Documentation](https://adaptpy.rtfd.io/) | Most        | Active      |
-| Rust       | [adapt-rs](https://github.com/adaptchat/adapt-rs) | Official | [Documentation](https://docs.rs/adapt-rs) | Not Working | Maintenance |
-| JavaScript | [adapt.js](https://github.com/adaptchat/adapt.js) | Official | N/A                                       | Not Working | Active      |
+| Python     | [adapt.py](https://github.com/adaptchat/adapt.py) | Official | [Documentation](https://adaptpy.rtfd.io/) | Most        | Active |
+| Rust       | [adapt-rs](https://github.com/adaptchat/adapt-rs) | Official | [Documentation](https://docs.rs/adapt-rs) | Minimal     | Active |
+| JavaScript | [adapt.js](https://github.com/adaptchat/adapt.js) | Official | N/A                                       | Minimal     | Active |
 
 ---
 
